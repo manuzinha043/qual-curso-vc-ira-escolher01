@@ -49,7 +49,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Criar um grupo utilizando uma plataforma, ou os propios apps.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos atravez dos apps.``
+                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos atravez dos apps."
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
